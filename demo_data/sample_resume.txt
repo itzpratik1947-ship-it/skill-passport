@@ -1,0 +1,14 @@
+DEMO CANDIDATE PROFILE
+Name: Asha Demo
+Headline: Student developer building small data and web applications
+
+PROJECT EXPERIENCE
+- Built a Python command-line expense tracker using functions, dictionaries, and file handling.
+- Used SQL and SQLite to store and query structured records in a small practice project.
+- Used Git and GitHub to track changes and document project setup.
+
+SKILLS CLAIMED BY CANDIDATE
+Python, SQL, Git, data analysis
+
+NOTE
+This synthetic sample is for testing only. It is not a real person's resume and does not represent a real certificate or employment history.

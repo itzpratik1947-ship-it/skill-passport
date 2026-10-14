@@ -1,0 +1,3 @@
+Junior Python Developer
+Required: Python, SQL, Git, REST API basics, testing and clear technical documentation.
+Preferred: Streamlit, data analysis and basic machine learning concepts.
